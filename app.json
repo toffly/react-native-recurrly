@@ -43,6 +43,13 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "b42c7714-ee15-4fb7-9250-010d10a66bf2"
+      }
+    },
+    "owner": "tofflys-organization"
   }
 }
